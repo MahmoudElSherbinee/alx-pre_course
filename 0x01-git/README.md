@@ -1,2 +1,1 @@
-My Readme file.
-Edited
+My Readme file.   Edited
